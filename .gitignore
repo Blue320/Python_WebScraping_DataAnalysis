@@ -5,4 +5,5 @@ img/
 img.html
 *.jpg
 .env
-data/dbscript.txt
+data/*.xlsx
+mp3/
